@@ -1,1 +1,2 @@
-# Emotion_data_API
+# API for data collection of the unified Emotion dataset
+
